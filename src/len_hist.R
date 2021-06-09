@@ -2,7 +2,7 @@ source('lib.R')
 
 ###
 
-NAME <- 'DeepZ'
+NAME <- 'H3K27me3_H1.merge.hg19'
 
 ###
 
