@@ -1,5 +1,7 @@
 # hse21_H3K27me3_ZDNA_human
 
+Сессия в UCSC Genome Browser: https://genome.ucsc.edu/s/manoprenko/hse21_H3K27me3_ZDNA_human
+
 ## Расположение пиков гистоновой метки относительно аннотированных генов
 ![ENCFF152JSZ_peaks](https://github.com/manoprenko/hse21_H3K27me3_ZDNA_human/raw/master/images/chip_seeker.H3K27me3_H1.ENCFF152JSZ.hg19.filtered.plotAnnoPie.png)
 ![ENCFF296RYM_peaks](https://github.com/manoprenko/hse21_H3K27me3_ZDNA_human/raw/master/images/chip_seeker.H3K27me3_H1.ENCFF296RYM.hg19.filtered.plotAnnoPie.png)
